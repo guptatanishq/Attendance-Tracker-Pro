@@ -1,4 +1,4 @@
-# online-attendance-system-in-php
+# Online-attendance-system-in-php
 # Project Overview
 The Attendance Management System is designed with scalability and code reusability in mind. This means that the same project can be altered by changing a few variables to get the desired results. Furthermore, there's scope for adding more functionality without disturbing any of the existing features. This is made possible by using Object-Oriented Programming, a modular design for web services, and following large parts of the MVC model. This approach allows us to extend the project to mobile applications and other environments.
 
